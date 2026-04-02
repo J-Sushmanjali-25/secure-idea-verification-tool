@@ -1,0 +1,62 @@
+idea_title,description,domain
+Fake News Detection,Detect fake news articles using natural language processing and machine learning,NLP
+Cyberbullying Detector,Identify harmful and toxic comments on social media platforms,Cybersecurity
+Spam SMS Classifier,Classify SMS messages as spam or legitimate using text classification,NLP
+Resume Screening Tool,Automatically classify resumes into job categories,NLP
+Face Attendance System,Mark attendance automatically using face recognition technology,Computer Vision
+Intrusion Detection System,Detect malicious or suspicious network traffic using machine learning,Cybersecurity
+Phishing Email Detector,Identify phishing emails using text analysis and classification,Cybersecurity
+Malware Classification System,Classify malware files into different threat categories,Cybersecurity
+Fake Job Posting Detector,Detect fraudulent job advertisements using machine learning,Cybersecurity
+Plagiarism Detection Tool,Check textual similarity between documents to detect copied content,NLP
+Sentiment Analysis Tool,Analyze whether user reviews are positive negative or neutral,NLP
+Handwritten Digit Recognizer,Recognize handwritten digits using image classification,Computer Vision
+Waste Classification System,Classify waste items into recyclable and non recyclable categories,Environment
+Student Feedback Analyzer,Analyze student feedback comments using NLP and sentiment analysis,Education
+Disease Symptom Classifier,Classify likely diseases based on entered symptoms,Healthcare
+Music Mood Classifier,Classify songs into happy sad calm or energetic moods,Entertainment
+Fraud Transaction Detector,Detect suspicious banking or payment transactions using machine learning,Finance
+Network Attack Classifier,Classify cyber attacks such as DDoS brute force or intrusion,Cybersecurity
+Smart Traffic Sign Detector,Detect and classify traffic signs from road images,Computer Vision
+Document Topic Classifier,Classify research papers or articles into subject categories,NLP
+AI Tutor for Kids,An AI based educational assistant designed to help children learn interactively,Education
+Cartoon Based Learning Assistant,Provide doubt clarification to children using cartoon style responses,Education
+Homework Helper Chatbot,Answer student homework doubts using natural language processing,Education
+Personalized Learning Recommender,Recommend lessons and study plans based on student needs,Education
+Voice Based Doubt Solver,Allow students to ask doubts using speech and receive AI generated answers,Education
+Goal Character Motivation App,Use inspirational goal based characters to motivate students in learning,Education
+Storytelling AI for Children,Explain educational concepts through stories for better child understanding,Education
+Quiz Generator for Students,Automatically create quizzes based on a topic or chapter,Education
+Children Safe Chatbot,An AI chatbot designed with child safe responses and educational focus,Education
+Interactive Science Tutor,Teach science concepts interactively using AI generated examples,Education
+Secure Password Strength Analyzer,Analyze password strength and suggest secure improvements,Cybersecurity
+Scam Link Detector,Detect whether a URL is suspicious or malicious,Cybersecurity
+Phishing Website Classifier,Classify whether a website is legitimate or phishing,Cybersecurity
+Cyber Threat News Analyzer,Analyze cyber threat related news articles and classify severity,Cybersecurity
+Secure File Access Monitor,Monitor suspicious access attempts to sensitive files,Cybersecurity
+Anomaly Login Detector,Detect unusual login behavior in a system,Cybersecurity
+Chatbot for Student Queries,Answer academic questions using natural language processing,NLP
+Research Paper Classifier,Classify research abstracts into different domains,NLP
+Email Priority Sorter,Automatically sort emails based on urgency and content,NLP
+Speech Emotion Detector,Identify emotion from human speech audio,Healthcare
+Depression Text Analyzer,Analyze user text to identify signs of mental stress or depression,Healthcare
+Medicine Reminder Assistant,Remind users to take medicines on time using AI,Healthcare
+Skin Disease Image Detector,Classify possible skin conditions from uploaded images,Healthcare
+Food Calorie Estimator,Estimate calories of food items using image recognition,Healthcare
+Sign Language Recognition,Recognize hand gestures used in sign language,Computer Vision
+Driver Drowsiness Detector,Detect whether a driver is sleepy using eye movement analysis,Computer Vision
+Garbage Segregation Assistant,Classify dry and wet waste automatically,Environment
+Smart Crop Disease Detector,Detect plant diseases from leaf images,Agriculture
+Rainfall Prediction System,Predict rainfall trends using environmental data,Environment
+Fake Review Detector,Detect whether online reviews are genuine or fake,NLP
+Movie Recommendation Chatbot,Suggest movies based on user mood and interests,Entertainment
+Music Recommendation by Emotion,Recommend songs based on emotional state,Entertainment
+Financial Risk Analyzer,Estimate financial risk using machine learning,Finance
+Loan Approval Predictor,Classify whether a loan application is risky or safe,Finance
+Expense Pattern Analyzer,Analyze user spending behavior and financial habits,Finance
+Attendance Risk Predictor,Identify students at risk of low attendance,Education
+Exam Performance Analyzer,Analyze patterns affecting student exam scores,Education
+AI Career Suggestion Tool,Suggest career paths based on student interests and skills,Education
+Child Learning Behavior Analyzer,Analyze how children interact with educational content,Education
+Cartoon Voice Study Assistant,Teach lessons in a fun cartoon voice style for kids,Education
+Role Model Based Learning Bot,Teach concepts using favorite role model or dream career personality,Education
